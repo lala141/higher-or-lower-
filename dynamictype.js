@@ -1,5 +1,5 @@
 let a =5;
 
-a = "Hello";
+a = "Hello ";
 console.log(a);
 //throws error at compile time
